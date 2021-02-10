@@ -1,5 +1,5 @@
 ---
-nama: Laporan bug
+name: Bug report
 about: Buat laporan untuk membantu kami meningkatkan
 
 ---
