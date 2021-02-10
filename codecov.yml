@@ -17,6 +17,7 @@ parsers:
 # excluding generated files and examples from the coverage report
 ignore:
   - "**/example/"
+  - "**/generated/"
   - "examples"
   - "**/*.g.dart"
   - "**/*.freezed.dart"
